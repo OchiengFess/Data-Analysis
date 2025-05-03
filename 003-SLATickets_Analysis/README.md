@@ -1,6 +1,6 @@
 # MSP Tickets Study
 
-A simulated end-to-end project that mirrors real-world responsibilities of a Data Analyst II at an MSP like Ntiva. This project demonstrates:
+A simulated end-to-end project that mirrors real-world  Managed Service Provider (MSP) ticket analysis. . This project showcases:
 
 - ✅ Python-based ETL for ticketing data
 - ✅ SQL analysis for KPIs and SLA trends
