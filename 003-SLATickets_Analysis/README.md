@@ -1,4 +1,4 @@
-# Ntiva MSP Data Analyst II Case Study
+# MSP Tickets Study
 
 A simulated end-to-end project that mirrors real-world responsibilities of a Data Analyst II at an MSP like Ntiva. This project demonstrates:
 
