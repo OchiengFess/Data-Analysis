@@ -1,4 +1,4 @@
-# MSP Tickets Study
+# MSP Tickets Analysis
 
 A simulated end-to-end project that mirrors real-world  Managed Service Provider (MSP) ticket analysis. . This project showcases:
 
