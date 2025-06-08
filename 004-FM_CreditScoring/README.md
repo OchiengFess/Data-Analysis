@@ -14,7 +14,7 @@ A simulated end-to-end credit scoring project that mirrors real-world banking an
 - GitHub
 
 ## 📂 Project Structure
-See folder breakdown above for details on each module (Data Loading → EDA → Feature Engineering → Model Training).
+See folder breakdown above for details on each module (notebooks-> Data Loading → EDA → Feature Engineering → Model Training).
 
 ## 🔍 Modules Completed
 
