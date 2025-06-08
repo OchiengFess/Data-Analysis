@@ -1,42 +1,57 @@
-📌 Project Title: FM Credit Scoring - Default Risk Modeling & Analysis
-📝 Description
-This project analyzes Freddie Mac's Fixed Rate Mortgage dataset to model and predict the likelihood of default (binary classification). The process mirrors an industry-grade credit risk pipeline, focusing on extensive data understanding, transformation, and robust model training. The dataset is split across two sources (Red and Green folders), combined and cleaned for full-spectrum insights.
+# 📌FM Credit Scoring Analysis
 
-🔍 Objective: Build a predictive model that identifies high-risk mortgage applicants and extract explainable insights using machine learning.
+A simulated end-to-end credit scoring project that mirrors real-world banking and financial institution practices. This project showcases:
 
-🔍 Modules Completed
+- ✅ Python-based data loading & transformation from raw Freddie Mac sources  
+- ✅ Deep exploratory data analysis with Plotly and Seaborn  
+- ✅ Feature selection using Mutual Information  
+- ✅ Machine Learning model training & evaluation with AUC optimization  
 
-1.Data Loading
+## 🔧 Tools & Tech
+- Python (pandas, numpy, scikit-learn, xgboost)
+- Plotly Express & Seaborn (interactive EDA)
+- Jupyter Notebooks
+- GitHub
 
-Combined Red & Green folders
+## 📂 Project Structure
+See folder breakdown above for details on each module (Data Loading → EDA → Feature Engineering → Model Training).
 
-Chunked loading to manage memory
+## 🔍 Modules Completed
 
-Final dataset saved as full_df
+**1. Data Loading**  
+- Combined Red & Green folders  
+- Chunked loading to manage memory  
+- Final dataset saved as `phase1_full_df`  
 
-2.Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**  
+- Univariate, bivariate, outlier, and missing value analysis  
+- Interactive visuals with Plotly and Seaborn  
+- Target variable balance & pattern detection  
 
-Univariate, bivariate, outlier, and missing value analysis
+**3. Feature Engineering**  
+- Removal of irrelevant features (based on variance & nullity)  
+- Selection using Mutual Information  
+- Reduced to Top 20 informative predictors  
 
-Interactive visuals with Plotly and Seaborn
+**4. Model Training**  
+- Models: Logistic Regression, Random Forest, XGBoost, Gradient Boosting  
+- Cross-validation with StratifiedKFold  
+- Selection of best model based on AUC  
+- Final test set evaluation and classification report  
 
-Target variable balance & pattern detection
+## 📊 Key Insights
+- Default risk trends by credit score, debt-to-income, loan-to-value, and more  
+- Class imbalance handling with ROC-AUC comparison  
+- Best-performing model selected dynamically with cross-validation  
+- Highly interpretable SHAP-based model insights (next phase)
 
-3.Feature Engineering
+## 🚀 How to Run
+- Open the notebooks in `/notebooks/` to explore the full pipeline.
+- Load `full_combined_data.csv` under `/data/` for training/testing.
+- Outputs including charts and metrics are saved under `/outputs/`.
 
-Removal of irrelevant features (based on variance & nullity)
+## 📬 Contact  
+Festus Ochieng — [LinkedIn](https://www.linkedin.com/in/festus-ochieng-045121211/)
 
-Selection using Mutual Information
 
-Reduced to top 100+ informative predictors
-
-4.Model Training
-
-Models: Logistic Regression, Random Forest, XGBoost, Gradient Boosting
-
-Cross-validation with StratifiedKFold
-
-Selection of best model based on AUC
-
-Final test set evaluation and classification report
 
