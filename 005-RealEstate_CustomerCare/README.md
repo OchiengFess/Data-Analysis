@@ -57,13 +57,13 @@ This project showcases:
 
 - Top 5 SLA Breach Categories
 
-SLA Compliance Trend (last 4 months)
+- SLA Compliance Trend (last 4 months)
 
 3. Performance & Operational Efficiency
 
-Agent Scorecard (dynamic table)
+- Performance Scorecard (dynamic table)
 
-Resolution Funnel (Open → In Progress → Resolved)
+- Resolution Funnel (Open → In Progress → Resolved)
 
 ### 📊 Key Insights
 📈 High SLA breach rates associated with specific categories and channels
