@@ -1,4 +1,4 @@
-#📌O.F Real Estate — Customer Care Intelligence Dashboard (Power BI)
+# 📌O.F Real Estate — Customer Care Intelligence Dashboard (Power BI)
 A real-world business analyst case project simulating a professional Power BI dashboard for the real estate customer service function. The goal was to transform a raw customer care dataset into dynamic business intelligence that enhances decision-making, team performance, and service quality.
 
 This project showcases:
