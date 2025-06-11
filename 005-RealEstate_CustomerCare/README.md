@@ -83,4 +83,4 @@ This project showcases:
 - Modify DAX measures in the data model as needed
 
 📬 Contact
-Festus Ochieng — LinkedIn [LinkedIn](https://www.linkedin.com/in/festus-ochieng-045121211/)
+Festus Ochieng — [LinkedIn](https://www.linkedin.com/in/festus-ochieng-045121211/)
