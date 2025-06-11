@@ -21,6 +21,7 @@ This project showcases:
 - GitHub (for version control and documentation)
 
 📂 Project Structure
+
 1.Data Loading & Transformation
 
 - Performed in Power Query Editor
