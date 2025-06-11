@@ -12,49 +12,49 @@ This project showcases:
 ✅ Dynamic slicers and cross-filtering for stakeholder-specific exploration
 
 🔧 Tools & Tech
--Power BI (Power Query, DAX, Report Layer)
+- Power BI (Power Query, DAX, Report Layer)
 
--Excel CSV as data source
+- Excel CSV as data source
 
--Custom color palette (personal branding)
+- Custom color palette (personal branding)
 
--GitHub (for version control and documentation)
+- GitHub (for version control and documentation)
 
 📂 Project Structure
 1.Data Loading & Transformation
 
--Performed in Power Query Editor
+- Performed in Power Query Editor
 
--Cleaned columns, formatted datetime fields, handled nulls
+- Cleaned columns, formatted datetime fields, handled nulls
 
 2.Data Modeling & DAX
 
--Created a star-schema layout with calculated columns & measures
+- Created a star-schema layout with calculated columns & measures
 
--Extensive use of DAX for KPIs such as resolution time, SLA breach rate, agent score, and channel share
+- Extensive use of DAX for KPIs such as resolution time, SLA breach rate, agent score, and channel share
 
 3.Dashboard Development
 
--Interactive report view with custom visuals
+- Interactive report view with custom visuals
 
--Slicers for Status, Category, Year, and Month
+- Slicers for Status, Category, Year, and Month
 
--Dynamic visuals with drill-through and tooltip layers
+- Dynamic visuals with drill-through and tooltip layers
 
 🔍 Visual Modules Completed
 1. Support Overview
 
--Total Cases by Channel
+- Total Cases by Channel
 
--% of Cases by Status
+- % of Cases by Status
 
--Average Resolution Time by Channel
+- Average Resolution Time by Channel
 
 2. SLA Monitoring
 
--SLA Breach Rate by Channel
+- SLA Breach Rate by Channel
 
--Top 5 SLA Breach Categories
+- Top 5 SLA Breach Categories
 
 SLA Compliance Trend (last 4 months)
 
@@ -74,12 +74,12 @@ Resolution Funnel (Open → In Progress → Resolved)
 🔀 Dynamic filtering enables custom view for different operational leads
 
 ### 🚀 How to Explore
--Open the .pbix file in Power BI Desktop
+- Open the .pbix file in Power BI Desktop
 
--Interact with slicers to view trends by channel, category, or month
+- Interact with slicers to view trends by channel, category, or month
 
--Hover or click through visuals to drill into specific KPIs 
--Modify DAX measures in the data model as needed
+- Hover or click through visuals to drill into specific KPIs 
+- Modify DAX measures in the data model as needed
 
 📬 Contact
 Festus Ochieng — LinkedIn
