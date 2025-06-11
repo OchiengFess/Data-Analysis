@@ -5,8 +5,6 @@ A simulated end-to-end data science project modeling real estate price predictio
 
 ✅ Extensive exploratory data analysis using Plotly Express & Seaborn
 
-✅ Robust feature engineering with price-per-sqm and geo-encoded insights
-
 ✅ Dynamic model selection for regression with MAE/R² optimization
 
 ## 🔧 Tools & Tech
